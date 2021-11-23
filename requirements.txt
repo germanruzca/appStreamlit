@@ -3,7 +3,6 @@ pandas
 streamlit
 scikit-learn
 folium
-pickle==3.8
 seaborn
 matplotlib
 streamlit_folium

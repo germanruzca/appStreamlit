@@ -1,0 +1,9 @@
+numpy
+pandas
+streamlit
+scikit-learn
+folium
+pickle
+seaborn
+matplotlib
+streamlit_folium

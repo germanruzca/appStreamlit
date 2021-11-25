@@ -3,12 +3,8 @@ import streamlit as st
 import pandas as pd
 import pickle
 import matplotlib.pyplot as plt
-import seaborn as sns
-import numpy as np
-from sklearn.metrics import classification_report, confusion_matrix
 import folium
 from streamlit_folium import folium_static
-from streamlit_echarts import st_echarts
 import os 
 
 # Extrar los archivos pickle

@@ -19,9 +19,9 @@ def classify(num):
 
   """
   if(num[0]==1):
-    st.sidebar.error('    SI, necesita cuidarse mas')
+    st.sidebar.error('Usted es una persona propensa a contagiar de COVID, necesita cuidarse mas')
   elif(num[0]==0):
-    st.sidebar.success('NO, no deje de cuidarse')
+    st.sidebar.success('Usted no es una persona propensa a contagiar de COVID, no deje de cuidarse')
 
 def main():
   """
